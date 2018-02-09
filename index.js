@@ -1,1 +1,1 @@
-var recepies = {} 
+var recipes = {} 
